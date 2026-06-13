@@ -4,7 +4,10 @@ An interactive console-based number guessing game built in Java. Developed for t
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
+* **Domain:** Java Programming
 * **Company:** CodSoft
+
+
 
 ### 🎯 Objective
 To build an interactive console-based guessing game where the user attempts to guess a randomly generated number within a limited number of attempts.
